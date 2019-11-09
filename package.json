@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/godcrampy/icecream-factory/issues"
   },
-  "homepage": "https://github.com/godcrampy/icecream-factory#readme"
+  "homepage": "https://github.com/godcrampy/icecream-factory#readme",
+  "devDependencies": {
+    "jest": "^24.9.0"
+  }
 }

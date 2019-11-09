@@ -1,0 +1,19 @@
+{
+  "name": "icecream-factory",
+  "version": "1.0.0",
+  "description": "A tiny npm package for making icecreams!",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/godcrampy/icecream-factory.git"
+  },
+  "author": "Sahil Bondre",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/godcrampy/icecream-factory/issues"
+  },
+  "homepage": "https://github.com/godcrampy/icecream-factory#readme"
+}

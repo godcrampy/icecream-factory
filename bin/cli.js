@@ -1,5 +1,5 @@
-#!/usr/bin/env node
+#! /usr/bin/env node
 
 const [, , ...args] = process.argv;
 
-require("../index")(args);
+console.log(require("../index")(`${args}`));

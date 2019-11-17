@@ -18,6 +18,7 @@
   },
   "homepage": "https://github.com/godcrampy/icecream-factory#readme",
   "devDependencies": {
+    "eslint": "^6.6.0",
     "jest": "^24.9.0"
   }
 }
